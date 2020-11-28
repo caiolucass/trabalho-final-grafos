@@ -1,6 +1,6 @@
 <h2 align="center">:book: PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS:book:</h2>
 <h3 align="center">Curso de Graduação em Sistemas De Informação </h3>
-<h3 align="center">Integrantes: Caio Lucas Ferreira dos Santos / Wernen Rodrigues Maciel</h3>
+<h5 align="center">Integrantes: Caio Lucas Ferreira dos Santos / Wernen Rodrigues Maciel</h5>
 <h3 align="center">Trabalho Prático interdisciplinar de Algoritmos em Grafos – 5º Período </h3>
  
  <h3 align=>1. Introdução</h3>
