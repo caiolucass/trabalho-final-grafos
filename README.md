@@ -4,7 +4,7 @@
 <h3 align="center">Trabalho Prático interdisciplinar de Algoritmos em Grafos – 5º Período </h3>
  
  <h3 align=>1. Introdução</h3>
-  <h4>Vértices: Disciplinas / Arestas: Professores</h4>
+  <h4>Vértices: Professores e Disciplinas Arestas: Horários</h4>
   
 Esse trabalho apresentado pela matéria de "Algoritmos em grafos" tem como objetivo utilizando a teoria de grafos aplicada durante o semestre, a solução do problema de um Sistema de Gestão de Horários de disciplinas entre professores, horários as disciplinas. Alocando assim, os
 professores às suas disciplinas de forma a maximizar o número de disciplinas em paralelo sem que haja qualquer conflito entre horários, professores e disciplinas. 
